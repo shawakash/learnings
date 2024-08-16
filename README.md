@@ -1,2 +1,4 @@
-# learnings
-Things i am to learn or is currently learning
+# Lists
+
+- [ ] https://doc.rust-lang.org/book
+- [ ] LLMS

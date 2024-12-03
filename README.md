@@ -5,3 +5,4 @@
 - [ ] https://uniswapv3book.com/milestone_0/introduction-to-markets.html
 - [ ] https://x.com/ManaMoonNFT/status/1858349451976294683
 - [ ] base blockchain
+- [ ] [agent](https://github.com/ai16z/eliza)

@@ -6,3 +6,4 @@
 - [ ] https://x.com/ManaMoonNFT/status/1858349451976294683
 - [ ] base blockchain
 - [ ] [agent](https://github.com/ai16z/eliza)
+- [ ] [native](https://www.youtube.com/watch?v=0-S5a0eXPoc)

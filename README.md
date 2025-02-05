@@ -9,3 +9,4 @@
 - [ ] [native](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 - [ ] [yew](https://yew.rs/docs/getting-started/build-a-sample-app)
 - [ ] [low_latency_systems](https://www.youtube.com/playlist?list=PLiWOUsmg3XMJY5C_LOqeznBGHc8CNg8_a)
+- [ ] [design_pattern](https://www.youtube.com/watch?v=_BpmfnqjgzQ&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=2)

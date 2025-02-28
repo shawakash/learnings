@@ -12,3 +12,4 @@
 - [design_pattern](https://www.youtube.com/watch?v=_BpmfnqjgzQ&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=2)
 - https://www.youtube.com/watch?v=ZL7SSFdTsZk&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA&index=5
 - perps futures orders implementations
+- [type driven rust](https://www.youtube.com/watch?v=bnnacleqg6k)

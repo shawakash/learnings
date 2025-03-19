@@ -17,3 +17,4 @@
 - [low latency sys](https://www.youtube.com/watch?v=8uAW5FQtcvE)
 - [lifetimes](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md#common-rust-lifetime-misconceptions)
 - [async rust](https://www.youtube.com/watch?v=ThjvMReOXYM&t=90s)
+- [go_concurreny](https://go.dev/tour/list)

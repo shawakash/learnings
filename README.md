@@ -11,7 +11,7 @@
 - [low_latency_systems](https://www.youtube.com/playlist?list=PLiWOUsmg3XMJY5C_LOqeznBGHc8CNg8_a)
 - [design_pattern](https://www.youtube.com/watch?v=_BpmfnqjgzQ&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=2)
 - https://www.youtube.com/watch?v=ZL7SSFdTsZk&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA&index=5
-- perps futures orders implementations
+- [perps futures orders implementations](https://github.com/solana-labs/perpetuals)
 - [type driven rust](https://www.youtube.com/watch?v=bnnacleqg6k)
 - [rust crust](https://www.youtube.com/watch?v=8O0Nt9qY_vo)
 - [low latency sys](https://www.youtube.com/watch?v=8uAW5FQtcvE)

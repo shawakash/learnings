@@ -19,3 +19,4 @@
 - [async rust](https://www.youtube.com/watch?v=ThjvMReOXYM&t=90s)
 - [go_concurreny](https://go.dev/tour/list)
 - [wordle](https://youtu.be/doFowk4xj7Q?si=x3JV3ITjgz0qsXww)
+- [tracing](https://www.youtube.com/watch?v=21rtHinFA40)

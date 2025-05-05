@@ -20,3 +20,4 @@
 - [go_concurreny](https://go.dev/tour/list)
 - [wordle](https://youtu.be/doFowk4xj7Q?si=x3JV3ITjgz0qsXww)
 - [tracing](https://www.youtube.com/watch?v=21rtHinFA40)
+- [tokio](https://www.youtube.com/watch?v=o2ob8zkeq2s&list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z&index=4&t=4s)

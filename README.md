@@ -22,3 +22,4 @@
 - [tracing](https://www.youtube.com/watch?v=21rtHinFA40)
 - [tokio](https://www.youtube.com/watch?v=o2ob8zkeq2s&list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z&index=4&t=4s)
 - [itch_order_book](https://github.com/charles-cooper/itch-order-book/blob/master)
+- [randomness_starknet](https://starknet-by-example.voyager.online/applications/random_number_generator/)
